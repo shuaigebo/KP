@@ -1,8 +1,5 @@
 
-
 ||static.ws.126.net/f2e/www/index2014/images/sprite_dw2.png
-
-
 |http://*/*mgkokpa.js
 |http://*/*rlptqpn.js
 ! ---- baidu union ----
@@ -12,16 +9,13 @@
 ! ---- unsafe download ----
 ! ---- test rules ----
 ||https://mydrivers.com##div.news_info > p:last-of-type
-
 ||https://xuanmin.wang
-
 ||https://govjiangsu.cn^
 ||https://sdqoi2d.com^
 ||https://googlevideo.com/ptracking?pltype=adhost
 ||https://googlevideo.com/videogoodput?
 ||https://youtube.com/api/stats/ads
 ||https://youtube.com/error_204
-
 |https://www.afmykaa.com
 |https://play.googleapis.com/log*
 |https://www.googleapis.com/adsmeasurement/*
