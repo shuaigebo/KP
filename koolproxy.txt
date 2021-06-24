@@ -1919,10 +1919,6 @@ www.sehuatang.net##a.js-randomBg
 |http://*/gg_search_
 |http://*/qkostn.js|
 |http://*/gongyong.js|$script
-|http://*/goo.js|$script
-|http://*/googleAds3Wide.js$script
-|http://*/google_service.js|$script
-|http://*/guang/$domain=~meilishuo.com|~gongjiaomishu.com
 |http://*/guangao/
 |http://*/guangg/
 |http://*/guanggao/$domain=~omyy.com|~xianzhenyuan.cn

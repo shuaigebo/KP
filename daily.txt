@@ -38,11 +38,7 @@
 |https://www.javbus.com/ads
 ! -----------------------
 |https://www.ett.cc/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js"></script>${2}@
-|https://www.javbus.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.col-xs-12.col-md-4.text-center.ptb10')</script>${2}@
-|https://m.cnbeta.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('div[data-role="content"] > div[style^="text-align:"],a[href^="http://click.aliyun.com/"],.cooperation,.cbv:not(#cb_share),.cbimage-fixed,.adsbygoogle')</script>${2}@
-|https://m.ithome.com/$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)')</script>${2}@
-|https://cdn.taboola.com$r@https://cdn.taboola.com/libtrc/impl*.js@https://www.houzi-blog.top/5.0/3x2.png@
-|https://v2ex.com$s@/((?<!<!--)(?=<html[^>]*?>)[\W\S]*?<head[^>]*?>|<meta[^>]+?name[^>]+?>|<meta[^>]+?charset[^>]+?>)([\s]{1,2}|)/@${1}${2}<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide_mini.js"></script><script>fuckcss('.sidebar_units,.sidebar_compliance,.adsbygoogle,.fr > a[href^="https://www.digitalocean.com/"]')</script>${2}@
+
 |https://ssl.jcbdfyy.cn$r@https://ssl.jcbdfyy.cn/js/tb.min.js*@https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js@
 |https://m.77kpp.com$s@function advert@function advert_fuck@
 ! -----------------------
@@ -61,8 +57,7 @@
 |https://www.baidu.com/s?$s@id="?00?"@id="Fuck Ad" style="display:none"@
 |https://m.baidu.com/$s@class="ec_r_????????????????"@id="ec_r_????????????????" style="display:none"@
 |https://www.baidu.com/$s@class="ec_r_????????????????"@id="ec_r_????????????????" style="display:none"@
-|https://m.baidu.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js"></script><script src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/sizzle_mini"></script><script>fuckcss('#header > div:nth-child(7):not([id])')</script>@
-|https://www.baidu.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/hide.js"></script><script src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP/sizzle_mini"></script><script>fuckcss('#header > div:nth-child(7):not([id])')</script>@
+
 ! ---- test rules ----
 !x  -----------------------------------------------------------------------------------------------------------------
 @@@@|https://pic.yefu365.com
@@ -1219,7 +1214,6 @@ baidu.com##.icon-bdad
 5ewin.com##.jjb-slide
 mail.126.com,mail.163.com##.gWel-bottom
 csdn.net##.blog-column-pay
-qidian.com,~game.qidian.com##A[href*="game.qidian.com"]
 zuhaowan.com##.zhw-bottom-ad
 tmtpost.com##.open-app
 kuman.com##.guide-download-footer-box
@@ -1921,9 +1915,6 @@ ifeng.com##a[href*=".app"]
 sina.com.cn##a[href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml"]
 crsky.com##a[href^="http://count."][href$=".exe"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
-~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
-163.com,~love.163.com##a[href^="http://love.163.com/"]
-ltn.com.tw##A[href*="draw.ltn.com.tw"]
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 cnbeta.com#?#div[style^="display:block !important;"]
