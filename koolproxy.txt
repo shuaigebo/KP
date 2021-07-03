@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
 !x  -----update[rules]: 2021-6-27 18:25
-!x  -----update[video]: 2021-6-16 16:00
+!x  -----update[video]: 2021-07-03 16:00
 !x  -----update by larry
 #电视家
 ||qn.cdn.dianshihome.com
@@ -499,6 +499,10 @@ www.sehuatang.net##a.js-randomBg
 #爱奇艺广告规则
 ||t7z.cupid.ptqy.gitv.tv
 ||t7z.cupid.iqiyi.com
+|http://mixer.cupid.ptqy.gitv.tv/mixer?a=*=qc_100001_
+|http://mixer.cupid.ptqy.gitv.tv/mixer?a=$s@"ads":@"":@
+|http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_$s@"adSlots":[{"ads":@"adSlots":[{"":@
+|http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 
 #FM听书广告规则
  #喜马拉雅
