@@ -52,3 +52,28 @@
 !  ------------------------------------------------------------------------------------------
 !  未来将逐步添加相关语法，兼容adblock puls的更多语法，敬请期待。
 !  *****************************************************************************************
+||*vlive.qqvideo.tc.qq.com
+||btrace.qq.com
+||mtrace.qq.com
+||ulogs.umengcloud.com
+||vqq.admaster.com.cn
+||andrqd.play.aiseet.atianqi.com
+||otheve.play.aiseet.atianqi.com
+||othstr.play.aiseet.atianqi.com
+||omgmta.play.aiseet.atianqi.com
+||news-l.play.aiseet.atianqi.com
+||p-l.play.aiseet.atianqi.com
+||t-l.play.aiseet.atianqi.com
+||news-l.play.ott.video.qq.com
+||omgmta.play.ott.video.qq.com
+||aiseet.aa.atianqi.com
+||dp3.play.aiseet.atianqi.com
+||livep.l.aiseet.atianqi.com
+||lives.l.aiseet.atianqi.com
+||monitor-uu.play.aiseet.atianqi.com
+||sdkconfig.play.aiseet.atianqi.com
+||tencent-dtv.m.cn.miaozhen.com
+||mtrace.play.aiseet.atianqi.com
+||btrace.play.aiseet.atianqi.com
+||adashx.m.taobao.com
+||adashbc.ut.taobao.com
