@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-10-07 18:00
+!x  -----update[rules]: 2021-10-07 19:00
 !x  -----update[video]: 2021-10-07 20:00
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
@@ -12857,3 +12857,26 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 !|https://api.rr.tv$r@https://api.rr.tv/user/privilege/list@https://cdn.jsdelivr.net/gh/houzi-/CDN/5.0/renren.js@
 !|https://api.rr.tv$r@https://api.rr.tv/ad/getAll@https://cdn.jsdelivr.net/gh/houzi-/CDN/5.0/renren.js@
 !|https://api.rr.tv$r@https://api.rr.tv/rrtv-video/v4plus/season/detail@https://cdn.jsdelivr.net/gh/houzi-/CDN/5.0/renren.js@
+||tv.aiseet.atianqi.com
+||vv.play.aiseet.atianqi.com
+||omgmta.play.aiseet.atianqi.com
+||connect.play.aiseet.atianqi.com
+||aiseet.aa.atianqi.com
+||api.poll.aiseet.atianqi.com
+||dp3.play.aiseet.atianqi.com
+||livep.l.aiseet.atianqi.com
+||lives.l.aiseet.atianqi.com
+||monitor-uu.play.aiseet.atianqi.com
+||sdkconfig.play.aiseet.atianqi.com
+||andrqd.play.aiseet.atianqi.com
+||btrace.play.aiseet.atianqi.com
+||mtrace.play.aiseet.atianqi.com
+||news-l.play.aiseet.atianqi.com
+||otheve.play.aiseet.atianqi.com
+||othstr.play.aiseet.atianqi.com
+||p-l.play.aiseet.atianqi.com
+||rlog-video.conn.aiseet.atianqi.com
+||t-l.play.aiseet.atianqi.com
+||p.conn.aiseet.atianqi.com
+||log-oma.play.aiseet.atianqi.com
+||pingmid.play.aiseet.atianqi.com
