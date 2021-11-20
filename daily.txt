@@ -38,7 +38,7 @@
 |https://nex.163.com/q?
 !|https://cpro.baidustatic.com/cpro/ui/
 
-! ------20211007------
+! ------20211------
 |https://www.bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"])
 |https://www.chinaz.com##.header-media__text,#setHomeTonglanCMedia,.meta__right,#setPbottomMedia
 ||https://file.myqcloud.com$r@/https:\/\/adstore\-.*\.file\.myqcloud\.com\/frontVideo\/.*/@https://cdn.jsdelivr.net/gh/houzi-/CDN/5.0-/noop-0.1s.mp4@
@@ -49,6 +49,8 @@
 |https://www.bilibili.com$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_mini.js"></script><script>fuckcss('.ex-card-common:has(.gg-icon) { remove: true; }')</script>@
 |https://ddrk.me$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/fuckcss.min.js"></script><script>fuckcss('setConstant%%%Object.prototype.ads%%%null')</script>@
 
+|https://www.555dy7.com##body > div.container > div > div:nth-child(7) > div > div > div,body > div.container > div > div:nth-child(5) > div > div > div,body > div.container > div > div:nth-child(2) > div > div > div
+|https://www.555dy7.com/vodplay$s@tips = new Array(2);@fuck = new Array(2);@
 |https://www.51byl.com/$s@var t = setTimeout(adsUp,5000);@var t = setTimeout(adsUp,1000);@
 |https://51byl.com/$s@var t = setTimeout(adsUp,5000);@var t = setTimeout(adsUp,1000);@
 |https://bbs.pcbeta.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/fuckcss.min.js"></script><script>fuckcss('.a_pt')</script>@
@@ -56,7 +58,15 @@
 !|https://v.qq.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/fuckcss.min.js"></script><script>fuckcss('jsonPrune%%%ad')</script>@
 |http://www.zhenbuka3.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/fuckcss.min.js"></script><script>fuckcss('adjustSetTimeout%%%CloseAd%%%%%%0.02')</script><script>fuckcss('preventSetTimeout%%%ad_load_fail')</script><script>fuckcss('img[id="hth616"]')</script>@
 |https://www.mp4er.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/fuckcss.min.js"></script><script>fuckcss('adjustSetInterval%%%timerAdCountdown%%%%%%0.02')</script><script>fuckcss('adjustSetInterval')</script><script>fuckcss('abortOnPropertyRead%%%onload')</script><script>fuckcss('setConstant%%%canRunAds%%%true')</script><script>fuckcss('setConstant%%%onload%%%null')</script>@
-! ------20211007------
+
+!@@@@|https://app-sc.miguvideo.com/
+!@@@@|https://display-h5-sc.miguvideo.com/
+!@@@@|https://vms-sc.miguvideo.com/
+!@@@@|https://program-sc.miguvideo.com/
+!@@@@|https://webapi.miguvideo.com/
+!@@@@|https://ggxwb.miguvideo.com/
+!@@@@|https://ggmk.miguvideo.com/
+! ------202111------
 ! ---- test rules ----
 ! -----------------------
 ||https://i8ggwm.com^
