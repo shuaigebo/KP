@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2021-10-07 18:00
-!x  -----update[video]: 2021-11-20 22:00
+!x  -----update[rules]: 2021-11-27 12:00
+!x  -----update[video]: 2021-11-27 12:02
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -437,6 +437,7 @@
 @@||zllyun.com/images/banner/
 !x  --------------------------------------------- white rules <https> -------------------------------------------------------
 @@@@|https://apisgame.iqiyi.com
+@@@@|https://api.iqiyi.com
 @@@@|https://analytics-api.smzdm.com
 @@@@|https://appdownload.youku.com
 @@@@|https://api.yuedu.iqiyi.com
@@ -456,6 +457,7 @@
 @@@@|https://appcloud.zhihu.com
 @@@@|https://amonsul.douban.com
 @@@@|https://baidustatic.com$domain=xoyo.com
+@@@@|https://baiducdnct.inter.iqiyi.com/
 @@@@|https://bizapi.csdn.net/download-console-api/
 @@@@|https://cache.video.iqiyi.com
 @@@@|https://comment-card.iqiyi.com
@@ -511,8 +513,10 @@
 @@@@|https://lx.hi.163.com
 @@@@|https://l-rcd.iqiyi.com
 @@@@|https://nl-rcd.iqiyi.com
+@@@@|https://ndct-data.video.iqiyi.com
 !@@@@|https://nex.163.com
 @@@@|https://n.3g.163.com
+@@@@|https://msga.cupid.iqiyi.com/
 @@@@|https://music.httpdns.c.163.com/
 @@@@|https://messaging.zhihu.com
 @@@@|https://mail.sohu.com/fe/
@@ -533,8 +537,10 @@
 @@@@|https://qbwup.imtt.qq.com
 !@@@@|https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=receive-a-sms.com
 @@@@|https://rdx.autohome.com.cn
+@@@@|https://rhcdn.verycloud.cn
 @@@@|https://rd.autohome.com.cn
 @@@@|https://res-danmu.youku.com
+@@@@|https://scs-hcdn.iqiyi.com
 @@@@|https://static-s.iqiyi.com
 @@@@|https://serv.vip.iqiyi.com
 @@@@|https://sns-follow.iqiyi.com
@@ -545,6 +551,7 @@
 @@@@|https://sugar.zhihu.com
 @@@@|https://static.zhihu.com
 !@@@@|https://s.youtube.com/api/
+@@@@|https://tcqcloudcdnct.inter.iqiyi.com
 @@@@|https://time.video.iqiyi.com
 @@@@||https://twitter.com
 @@@@|https://uop.umeng.com
@@ -8206,7 +8213,7 @@
 ||https://t66y.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 |https://123.sogou.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js"></script><script src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/sizzle_mini"></script><script>fuckcss('.hd-slider > .slider-container,.adword > a,div[id^="AD_"],.cs_right_hw,.m-12[pbflag="guess"],div[pbflag="coolsitefeed_ad"]')</script>@
 |https://51.ruyo.net/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
-|https://91mjw.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
+!|https://91mjw.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 |https://99a12.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 |https://99a12.com/$s@</body>@<script>fuckcss('.half-img')</script></body>@
 |https://99a18.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
